@@ -1,4 +1,4 @@
-Author: Gilles Myny - 101145477
+Author: Gilles Myny
 
 ---------------------------------------
 Reasoning behind file names:
