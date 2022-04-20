@@ -1,5 +1,3 @@
-Author: Gilles Myny
-
 ---------------------------------------
 Reasoning behind file names:
 - Client is named as such because it represents the client algorithm.
